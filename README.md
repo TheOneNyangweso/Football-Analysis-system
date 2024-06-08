@@ -15,6 +15,7 @@ This is just using a CNN to detect ocjects in the image and generate the boundin
 
 - Google Colab -- chosen due to free GPU + gemini AI to assist in debugging errors
 - ultralytics -- Python library with the YOLO model
+- roboflow -- Python library to work with roboflow universe
 
 **What was done**
 
