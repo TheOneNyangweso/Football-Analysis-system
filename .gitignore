@@ -1,3 +1,6 @@
 clips/*
 *.pt
 config.json
+training/*
+runs/*
+models/*
