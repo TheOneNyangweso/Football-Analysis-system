@@ -2,8 +2,8 @@
 
 A comprehensive Football Analysis System using Python, YOLO (You Only Look Once), and OpenCV to track and analyze player movements, ball trajectories, and game events in real-time.\
 
-**Dataset link : https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout/data -- by Deutsche Fußball Liga e.V.**
-**Roboflow dataset link used for finetuning : https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1 -- used to improve our own model**
+**Dataset link : https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout/data -- by Deutsche Fußball Liga e.V.** \
+**Roboflow dataset link used for finetuning ball detection : https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1 -- used to improve our own model**
 
 ## Steps Followed
 
