@@ -1,3 +1,5 @@
+# To be compiled at the final stages at once, with the code from the notebooks
+
 import os
 from utils.video_utils import read_video, save_video
 

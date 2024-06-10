@@ -1,2 +1,9 @@
+python
+opencv
 ultralytics
 roboflow
+supervision
+numpy
+pandas
+matplotlib
+os
