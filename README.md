@@ -51,7 +51,7 @@ Definiton from Roboflow: _ByteTrack is a multi-object tracking computer vision a
 The objects' tracks were generated and saved as pickle file.\
 A pickle file was finally created (at the stubs directory) to reduce the time to load the file with the tracker results.
 The bounding boxes were replaced by ellipses at the base of the player and referee objects and an inverted triangle as\
-a pointer to the ball. The resulting frame were appended together to form a new output frame.
+a pointer to the ball. The resulting frame were appended together to form a new output video.
 
 ### 3. Player (or Team) Color assignment
 
