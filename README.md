@@ -55,6 +55,25 @@ a pointer to the ball. The resulting frame were appended together to form a new 
 
 ### 3. Player (or Team) Color assignment
 
+Our focus is now to assign each team its own color assignment so as to differentiate them.\
+This will be achieved cv2 and matplotlib.
+
+**Libraries/Technologies/Architecture used**
+
+- os
+- cv2
+- scikit-learn - To use kmeans for clustering
+- matplotlib
+- numpy
+
+**What was done**
+
+A picture of a player was extracted from a single frame and used to train the k-means clustering algorithm.\
+The result was the player's jersey colour. These, with players tracks from the previous steps form a team.\
+K-means was the point of focus here. It was used extensively since this part involved a lot of classification
+
+### 4. Ball interpolation
+
 ## References
 
 - https://docs.ultralytics.com/models/yolov8/
